@@ -3,7 +3,7 @@ I'm a recent Mechanical Engineering graduate from London, UK looking to break in
  
 - 🔭 I’m currently working on my SQL skills
 - 🌱 I’m currently completing Kaggle course's and Jose Portilla's [Python for Data Science and Machine Learning Bootcamp course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- 🎯 My 2020 goals are to improve my Python and SQL skills as well as learning more about Data Science and Machine Learning
+- 🎯 My 2021 goals are to work on several data projects
 - ⚡ Fun fact I'm an Arsenal fan and love anime! ⚽️🤓
 
 ![Profile views](https://gpvc.arturio.dev/tayiabscode) 
