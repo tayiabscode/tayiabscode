@@ -1,9 +1,12 @@
 ### Hi there I'm Tayiab 👋 
-I'm a recent Mechanical Engineering graduate from London, UK looking to break into the data sector! 📊<br>
- 
-- 🔭 I’m currently working on my SQL skills
-- 🌱 I’m currently completing Kaggle course's and Jose Portilla's [Python for Data Science and Machine Learning Bootcamp course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- 🎯 My 2021 goals are to work on several data projects
+I'm a new Data Science Consultant from London, UK looking to improve my skills in DS, ML and Cloud! 📊<br>
+
+- 🌱 I’m currently completing FastAI's [Practical Deep Learning for Coders Course](https://course.fast.ai/)
+- 🎯 My 2023 goals are as follows:
+   - Build Deep Learning Proficiency via courses and project work 
+   - Obtain GCP Professional Certificates starting with Professional Data Engineer then Professional Machine Learning Engineer
+   - Improve my SE skills via coding chalenges
+   - [Extra] Begin learning Java
 - ⚡ Fun fact I'm an Arsenal fan and love anime! ⚽️🤓
 
 ![Profile views](https://gpvc.arturio.dev/tayiabscode) 
